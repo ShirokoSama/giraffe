@@ -1,0 +1,28 @@
+<component name="ProjectDictionaryState">
+  <dictionary name="Srf">
+    <words>
+      <w>bufptr</w>
+      <w>bufsize</w>
+      <w>csapp</w>
+      <w>epfd</w>
+      <w>epoll</w>
+      <w>exceptfds</w>
+      <w>fcntl</w>
+      <w>getaddrinfo</w>
+      <w>httpserver</w>
+      <w>listenq</w>
+      <w>maxlen</w>
+      <w>munmap</w>
+      <w>prot</w>
+      <w>readfds</w>
+      <w>readinitb</w>
+      <w>readlineb</w>
+      <w>readn</w>
+      <w>readnb</w>
+      <w>srcfd</w>
+      <w>srcp</w>
+      <w>usrbuf</w>
+      <w>writefds</w>
+    </words>
+  </dictionary>
+</component>

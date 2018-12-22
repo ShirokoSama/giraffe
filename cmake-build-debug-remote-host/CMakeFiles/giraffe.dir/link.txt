@@ -1,0 +1,1 @@
+/usr/bin/g++  -g   CMakeFiles/giraffe.dir/http_server.cpp.o CMakeFiles/giraffe.dir/main.cpp.o CMakeFiles/giraffe.dir/system.cpp.o CMakeFiles/giraffe.dir/conn_producer.cpp.o CMakeFiles/giraffe.dir/conn_consumer.cpp.o  -o giraffe /usr/lib/x86_64-linux-gnu/libz.so -lpthread 
