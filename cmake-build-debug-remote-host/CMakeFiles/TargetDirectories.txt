@@ -1,3 +1,0 @@
-/tmp/tmp.LHC2rqj3pK/cmake-build-debug-remote-host/CMakeFiles/rebuild_cache.dir
-/tmp/tmp.LHC2rqj3pK/cmake-build-debug-remote-host/CMakeFiles/giraffe.dir
-/tmp/tmp.LHC2rqj3pK/cmake-build-debug-remote-host/CMakeFiles/edit_cache.dir
