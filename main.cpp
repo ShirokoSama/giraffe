@@ -17,7 +17,7 @@ void sigintHandler(int signal) {
 
 int main(int argc, char *argv[]) {
 
-    chdir("/tmp/tmp.LHC2rqj3pK/");
+    // chdir("/tmp/tmp.LHC2rqj3pK/");
     // parse arguments to get port and site base directory
     ArgsTokenizer tokenizer;
     tokenizer.Parse(argc, argv);
